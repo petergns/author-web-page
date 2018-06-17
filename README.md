@@ -27,5 +27,5 @@ Acknowledgments to the following for helping me develop this project:
 * [Udacity](https://www.udacity.com/)
 * [Bootstrap](https://getbootstrap.com/)
 * [Drupal](https://www.drupal.org/home)
-* [Boostrap 3 for Drupal](https://www.drupal.org/project/bootstrap)
+* [Bootstrap 3 for Drupal](https://www.drupal.org/project/bootstrap)
 
