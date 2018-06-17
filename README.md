@@ -16,4 +16,16 @@ Follow these instructions to set up the Author Web Page Project.
 * Some knowledge of the Drupal content management website.
 * Some knowledge of the Boostrap library.
 
+## Author
+[petergns](https://github.com/petergns)
+
+### Free Image Resource
+1. https://pixabay.com/
+
+## Acknowledgments
+Acknowledgments to the following for helping me develop this project:
+* [Udacity](https://www.udacity.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Drupal](https://www.drupal.org/home)
+* [Boostrap 3 for Drupal](https://www.drupal.org/project/bootstrap)
 
