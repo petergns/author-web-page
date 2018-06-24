@@ -5,6 +5,9 @@ Project files for an Author Web Page template using Drupal and Bootstrap.
 
 This project contains a Web Page for an aspiring author. 
 
+## Mockup Preview
+![Image of Output](https://github.com/petergns/author-web-page/blob/master/Page%20Style%20Templates1.png)
+
 ## Setup Instructions
 Follow these instructions to set up the Author Web Page Project.
 
