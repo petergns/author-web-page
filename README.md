@@ -28,4 +28,5 @@ Acknowledgments to the following for helping me develop this project:
 * [Bootstrap](https://getbootstrap.com/)
 * [Drupal](https://www.drupal.org/home)
 * [Bootstrap 3 for Drupal](https://www.drupal.org/project/bootstrap)
+* [OS Training Drupal Courses](https://www.ostraining.com/)
 
