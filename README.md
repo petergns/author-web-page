@@ -16,6 +16,13 @@ Follow these instructions to set up the Author Web Page Project.
 * Some knowledge of the Drupal content management website.
 * Some knowledge of the Boostrap library.
 
+## Instructions
+
+1. Install Drupal management system on server.
+2. Install Bootstrap for Drupal.
+3. Edit layout of Bootstrap pages.
+4. Add initial content.
+
 ## Author
 [petergns](https://github.com/petergns)
 
