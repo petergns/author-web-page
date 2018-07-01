@@ -35,6 +35,11 @@ Follow these instructions to set up the Author Web Page Project.
 * Shop cart using Drupal, which shows books or short stories for sale or for reference.
 * General page that shows books or shorts stories for reference, with discussion of current writing projects.
 
+## Possible Tagging/Structure
+* Use of tags relating to books, short stories, and their author/s.
+* Use of tags relating to page content and page title.
+* Use of other site structure tools to organize content such as Taxonomy.
+
 ## Author
 [petergns](https://github.com/petergns)
 
