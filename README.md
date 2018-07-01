@@ -31,6 +31,10 @@ Follow these instructions to set up the Author Web Page Project.
 * Book series page with image of world, description of the world and the characters within it.
 * Character description pages as sub-pages of the book series pages
 
+## Possible Purchase Page
+* Shop cart using Drupal, which shows books or short stories for sale or for reference.
+* General page that shows books or shorts stories for reference, with discussion of current writing projects.
+
 ## Author
 [petergns](https://github.com/petergns)
 
