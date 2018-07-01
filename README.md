@@ -40,6 +40,9 @@ Follow these instructions to set up the Author Web Page Project.
 * Use of tags relating to page content and page title.
 * Use of other site structure tools to organize content such as Taxonomy.
 
+## Possible Email Setup
+* Setup a site email exclusive to the website or use an existing one.
+
 ## Author
 [petergns](https://github.com/petergns)
 
