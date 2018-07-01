@@ -26,6 +26,11 @@ Follow these instructions to set up the Author Web Page Project.
 3. Edit layout of Bootstrap pages.
 4. Add initial content.
 
+## Possible Page Types
+* Author page with blog entries, author image and author description
+* Book series page with image of world, description of the world and the characters within it.
+* Character description pages as sub-pages of the book series pages
+
 ## Author
 [petergns](https://github.com/petergns)
 
