@@ -46,6 +46,10 @@ Follow these instructions to set up the Author Web Page Project.
 ## Set up Site Domain Name
 * Setup a domain name for the site, so that it can be hosted online. 
 
+## Create Site Content
+* Add rough site content to test out page structure.
+* Include image placeholders and placeholder backgrounds.
+
 ## Author
 [petergns](https://github.com/petergns)
 
