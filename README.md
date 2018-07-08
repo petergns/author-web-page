@@ -50,6 +50,12 @@ Follow these instructions to set up the Author Web Page Project.
 * Add rough site content to test out page structure.
 * Include image placeholders and placeholder backgrounds.
 
+## Online Site Setup Instructions
+
+1. Start Drupal Installer, and follow instructions.
+2. Set security settings and update user accounts.
+3. Install Boostrap 3 for Drupal.
+
 ## Author
 [petergns](https://github.com/petergns)
 
