@@ -43,6 +43,9 @@ Follow these instructions to set up the Author Web Page Project.
 ## Possible Email Setup
 * Setup a site email exclusive to the website or use an existing one.
 
+## Set up Site Domain Name
+* Setup a domain name for the site, so that it can be hosted online. 
+
 ## Author
 [petergns](https://github.com/petergns)
 
