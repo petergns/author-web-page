@@ -56,6 +56,11 @@ Follow these instructions to set up the Author Web Page Project.
 2. Set security settings and update user accounts.
 3. Install Boostrap 3 for Drupal.
 
+## Set Page Layout for Author Page
+1. Add Placeholder Image to article.
+2. Add Placeholder text to article.
+3. Organize content.
+
 ## Author
 [petergns](https://github.com/petergns)
 
